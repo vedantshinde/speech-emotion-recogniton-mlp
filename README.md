@@ -24,4 +24,4 @@ This model predicts emotions from monophonic audio samples, specifically, into 8
 ## Usage
 
 - 1. Run the ```ser.ipynb``` file using Jupyter Notebook.
-- 2. To access the dataset, unzip  ```speech-emotion-recognition-ravdess-data.zip``` file.
+- 2. To access the dataset, unzip  ```speech-emotion-recognition-ravdess-data.zip``` file into ```data``` folder.
